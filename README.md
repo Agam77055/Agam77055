@@ -22,41 +22,10 @@
 
 🎓 **BTech AI & Data Science** | **IIT Jodhpur '27**  
 🔬 **Passionate** about turning complex problems into elegant solutions  
-🛰️ **Space Tech Enthusiast** working with **Chandrayaan-2** data  
+🛰️ **Space Tech Enthusiast** worked with **Chandrayaan-2** data  
 🏆 **Award Winner** at **Inter IIT Tech Meet** & **IIT Ropar Tech Fest**  
 🌱 **Currently diving deep** into ML algorithms and modern web technologies  
 🏎️ **F1 Racing Fan** & **Gaming Enthusiast** in free time  
-
----
-
-<div align="center">
-  
-  ## 🏆 Major Achievements
-  
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🥉_3rd_Place-Inter_IIT_Tech_Meet_13.0-red?style=for-the-badge&logo=trophy&logoColor=white"/>
-        <br/><br/>
-        <strong>🌙 Chandrayaan-2 Data Analysis</strong>
-        <br/>
-        <em>Competed against all 23 IITs • ISRO Challenge</em>
-        <br/>
-        <small>XRF Spectral Data • Lunar Surface Mapping • Element Detection</small>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🥉_3rd_Place-IIT_Ropar_Tech_Fest-blue?style=for-the-badge&logo=trophy&logoColor=white"/>
-        <br/><br/>
-        <strong>🤖 Deepfake Detection Model</strong>
-        <br/>
-        <em>EfficientNetB0 Architecture • Transfer Learning</em>
-        <br/>
-        <small>Image Classification • Deep Learning • Computer Vision</small>
-      </td>
-    </tr>
-  </table>
-  
-</div>
 
 ---
 
@@ -116,7 +85,7 @@
 
 - 🛰️ **XRF spectral data** processing
 - 🗺️ **3D lunar surface** mapping
-- 🔬 **Ca & Ti element** detection
+- 🔬 **Al, Mg, Si, Ca & Ti element** detection
 - 📈 **Kriging method** for data interpolation
 
 </td>
@@ -214,10 +183,9 @@
   ```javascript
   const agam = {
     currentlyLearning: ["Advanced ML Algorithms", "System Design", "Cloud Architecture"],
-    workingOn: ["NextCommerce v2.0", "Research Paper on Lunar Data Analysis"],
-    interests: ["Space Technology", "Deep Learning", "Full-Stack Development"],
-    askMeAbout: ["React", "Python", "Machine Learning", "Data Science", "Space Research"],
-    funFact: "I analyze lunar data by day and build web apps by night! 🌙💻"
+    workingOn: ["F1 Analytics Website", ""],
+    interests: ["Cloud Computing", "DevOps", "Deep Learning", "Full-Stack Development"],
+    askMeAbout: ["React", "Python", "Machine Learning", "Data Science"]
   };
   ```
   
