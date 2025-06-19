@@ -4,25 +4,17 @@
 
 </div>
 
-<div align="center">
-  
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=6366F1,8B5CF6,A855F7&background=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI/ML+Researcher;Data+Science+Enthusiast;Problem+Solver;TypeScript+Developer;Web+Developer;Creative+Problem+Solver;Space+Technology+Enthusiast)](https://git.io/typing-svg)   
-   
-</div>
-
 ---
 
 <div align="center">
   
   ## 🌟 About Me
   
-  <img align="right" width="400" src="https://github.com/Agam77055/Agam77055/assets/your-profile-image.gif" alt="Coding GIF"/>
-  
 </div>
 
 🎓 **BTech AI & Data Science** | **IIT Jodhpur '27**  
 🔬 **Passionate** about turning complex problems into elegant solutions  
-🛰️ **Space Tech Enthusiast** worked with **Chandrayaan-2** data  
+🛰️ **Space Tech Enthusiast** working with **Chandrayaan-2** data  
 🏆 **Award Winner** at **Inter IIT Tech Meet** & **IIT Ropar Tech Fest**  
 🌱 **Currently diving deep** into ML algorithms and modern web technologies  
 🏎️ **F1 Racing Fan** & **Gaming Enthusiast** in free time  
@@ -85,7 +77,7 @@
 
 - 🛰️ **XRF spectral data** processing
 - 🗺️ **3D lunar surface** mapping
-- 🔬 **Al, Mg, Si, Ca & Ti element** detection
+- 🔬 **Ca & Ti element** detection
 - 📈 **Kriging method** for data interpolation
 
 </td>
@@ -164,8 +156,6 @@
   
   ## 📊 GitHub Analytics
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Agam77055&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
-  
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Agam77055&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak"/>
   
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Agam77055&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
@@ -176,7 +166,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   
   ## 🏃‍♂️ Current Focus
   
