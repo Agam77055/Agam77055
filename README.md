@@ -173,7 +173,7 @@
   ```javascript
   const agam = {
     currentlyLearning: ["Advanced ML Algorithms", "System Design", "Cloud Architecture"],
-    workingOn: ["F1 Analytics Website", ""],
+    workingOn: ["F1 Analytics Website", "DSA"],
     interests: ["Cloud Computing", "DevOps", "Deep Learning", "Full-Stack Development"],
     askMeAbout: ["React", "Python", "Machine Learning", "Data Science"]
   };
