@@ -6,8 +6,8 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&background=0D1117&center=true&vCenter=true&width=600&lines=🚀+AI+%26+Data+Science+%40+IIT+Jodhpur;🌙+Lunar+Research+Enthusiast;💻+Full-Stack+Developer;🤖+Machine+Learning+Engineer;🏆+Inter+IIT+3rd+Place+Winner)](https://git.io/typing-svg)
-  
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1,8B5CF6,A855F7&background=FFFFFF&center=true&vCenter=true&width=600&lines=🚀+AI+%26+Data+Science+%40+IIT+Jodhpur;🌙+Lunar+Research+Enthusiast;💻+Full-Stack+Developer;🤖+Machine+Learning+Engineer;🏆+Inter+IIT+3rd+Place+Winner)](https://git.io/typing-svg)
+   
 </div>
 
 ---
@@ -215,15 +215,6 @@
   
 </div>
 
----
-
-<div align="center">
-  
-  ## 🐍 Watch my code contribution snake eat my commits!
-  
-  ![Snake animation](https://github.com/Agam77055/Agam77055/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
 ---
 
